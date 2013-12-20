@@ -27,4 +27,4 @@
 	url = https://github.com/mstorsjo/fdk-aac.git
 [submodule "FFmpegLibrary/jni/ffmpeg"]
 	path = FFmpegLibrary/jni/ffmpeg
-	url = http://git.videolan.org/git/ffmpeg.git
+	url = git://source.ffmpeg.org/ffmpeg.git
